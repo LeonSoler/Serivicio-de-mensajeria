@@ -1,3 +1,4 @@
+//Si se borra el usuario raiz se borra todo el arbol
 program serviciodemensajeria;
 uses
     sysutils,crt;
